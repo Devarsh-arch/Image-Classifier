@@ -1,0 +1,21 @@
+body{
+    background-color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+}
+.heading{
+    width: 80%;
+    font-size: 30px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: coral;
+}
+#camera{
+    border: 3 solid aquamarine;
+    width: 375px;
+    height: 300px;
+}
+#result{
+    border: 3 solid darkolivegreen;
+    width: 375px;
+    height: 300px;
+}
